@@ -7,8 +7,7 @@
   <a href="https://github.com/HenryFSilva">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HenryFSilva&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryFSilva&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height="165em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  
+  <img height="165em" src="[https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
