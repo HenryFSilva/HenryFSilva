@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e75b6&size=35&center=true&vCenter=true&width=1000&lines=+Hello+World!+Prazer+Henry+Silva!+:%29)](https://git.io/typing-svg)
 
 #
-- 💻 atualmente estudando CSharp, JavaScript e NodeJS.
+- 💻 atualmente estudando HTML, CSS, C#, JavaScript, NodeJS.
 
 <div align="center">
   <a href="https://github.com/HenryFSilva">
